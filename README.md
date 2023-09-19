@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @DevKany
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+ # 👋 Hi, I’m @DevKany
 
-<!---
-DevKany/DevKany is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m @DevKany
+- 👀 I’m interested in Vsc, Minecraft, Python, CSS
+- 📫 I’m looking to collaborate on Kyane.partner@gmail.com
+
+[![Paypal](https://img.shields.io/badge/Donate-PayPal-blue?&labelColor=2e343e&color=%23CD0952&style=for-the-badge)](https://paypal.me/kanerchima?country.x=CO&locale.x=es_XC)
+[![Discord](https://img.shields.io/discord/534376415202639903?label=Discord&labelColor=2e343e&color=%23CD0952&style=for-the-badge)](https://discord.gg/8W8E39Z)
