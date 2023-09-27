@@ -1,5 +1,6 @@
  # 👋 Hi, I’m @DevKany
 
+- devkany.carrd.co
 - 👋 Hi, I’m @DevKany
 - 👀 I’m interested in Vsc, Minecraft, Python, CSS
 - 📫 I’m looking to collaborate on Kyane.partner@gmail.com
