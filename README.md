@@ -1,10 +1,5 @@
  # 👋 Hi, I’m @DevKany
-
-- devkany.carrd.co
-- 👋 Hi, I’m @DevKany
-- 👀 I’m interested in Vsc, Minecraft, Python, CSS
-- 📫 I’m looking to collaborate on Kyane.partner@gmail.com
-
+ 
 <p>
 <div align="center">
   <img src="https://img.shields.io/badge/-HTML-c58545?style=for-the-badge&logo=html5&logoColor=c58545&labelColor=282828">
@@ -12,4 +7,6 @@
   <img src="https://img.shields.io/badge/-Python-98b982?style=for-the-badge&logo=python&logoColor=98b982&labelColor=282828">
 </div>
 </p>
+
+  <a href="https://ko-fi.com/jlawrence"><img alt="Ko-fi" title="By me a coffee" src="https://img.shields.io/badge/-Buy%20me%20a%20coffee-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white"/></a>
 
